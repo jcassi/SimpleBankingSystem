@@ -1,3 +1,5 @@
+//All test were made by hyperskill.org
+
 import org.hyperskill.hstest.dynamic.DynamicTest;
 import org.hyperskill.hstest.exception.outcomes.WrongAnswer;
 import org.hyperskill.hstest.stage.StageTest;
